@@ -8,4 +8,6 @@ A recycler-view is used to reproduce views and add the functionality of remove e
 
 # Some screenshots
 
+[Homepage](https://github.com/jainayushee/toDoList/blob/master/Screenshots/Homepage.jpeg)
+
 
